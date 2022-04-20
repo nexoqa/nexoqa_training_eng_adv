@@ -1,0 +1,5 @@
+mysql-connector-python
+mysqlclient
+flask
+wtforms_json
+WTForms==2.3.3
